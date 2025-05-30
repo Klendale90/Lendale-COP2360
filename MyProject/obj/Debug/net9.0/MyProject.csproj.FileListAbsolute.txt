@@ -1,0 +1,15 @@
+d:\School Notes\COP Class\Lendale-COP2360\MyProject\bin\Debug\net9.0\MyProject.exe
+d:\School Notes\COP Class\Lendale-COP2360\MyProject\bin\Debug\net9.0\MyProject.deps.json
+d:\School Notes\COP Class\Lendale-COP2360\MyProject\bin\Debug\net9.0\MyProject.runtimeconfig.json
+d:\School Notes\COP Class\Lendale-COP2360\MyProject\bin\Debug\net9.0\MyProject.dll
+d:\School Notes\COP Class\Lendale-COP2360\MyProject\bin\Debug\net9.0\MyProject.pdb
+d:\School Notes\COP Class\Lendale-COP2360\MyProject\obj\Debug\net9.0\MyProject.GeneratedMSBuildEditorConfig.editorconfig
+d:\School Notes\COP Class\Lendale-COP2360\MyProject\obj\Debug\net9.0\MyProject.AssemblyInfoInputs.cache
+d:\School Notes\COP Class\Lendale-COP2360\MyProject\obj\Debug\net9.0\MyProject.AssemblyInfo.cs
+d:\School Notes\COP Class\Lendale-COP2360\MyProject\obj\Debug\net9.0\MyProject.csproj.CoreCompileInputs.cache
+d:\School Notes\COP Class\Lendale-COP2360\MyProject\obj\Debug\net9.0\MyProject.sourcelink.json
+d:\School Notes\COP Class\Lendale-COP2360\MyProject\obj\Debug\net9.0\MyProject.dll
+d:\School Notes\COP Class\Lendale-COP2360\MyProject\obj\Debug\net9.0\refint\MyProject.dll
+d:\School Notes\COP Class\Lendale-COP2360\MyProject\obj\Debug\net9.0\MyProject.pdb
+d:\School Notes\COP Class\Lendale-COP2360\MyProject\obj\Debug\net9.0\MyProject.genruntimeconfig.cache
+d:\School Notes\COP Class\Lendale-COP2360\MyProject\obj\Debug\net9.0\ref\MyProject.dll
