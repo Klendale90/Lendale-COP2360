@@ -1,0 +1,33 @@
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        // Object initialization syntax without constructor arguments
+        Bunny b1 = new Bunny { Name = "Bo", LikesCarrots = true, LikesHumans = false };
+        
+        // Object initialization syntax with a constructor argument
+        Bunny b2 = new Bunny("Bo") { LikesCarrots = true, LikesHumans = false };
+        
+        // Print information about each bunny
+        b1.Dump();
+        b2.Dump();
+    }
+}
+
+public class Bunny
+{
+    public string Name;
+    public bool LikesCarrots;
+    public bool LikesHumans;
+
+    public Bunny() { }
+    public Bunny(string n) { Name = n; }
+
+    // Method to print bunny info (replaces Dump() from LINQPad)
+    public void Dump()
+    {
+        Console.WriteLine($"Name: {Name}, LikesCarrots: {LikesCarrots}, LikesHumans: {LikesHumans}");
+    }
+}
