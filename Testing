@@ -1,0 +1,13 @@
+List<Student> students = new List<Student>
+{
+    new Student("Alice", 3.5),
+    new Student("Bob", 2.8),
+    new Student("Charlie", 3.9)
+};
+
+var highGpaStudents = students.Where(s => s.GPA > 3.0);
+
+foreach (var student in highGpaStudents)
+{
+    Console.WriteLine($"{student.Name} - {student.GPA}");
+}
